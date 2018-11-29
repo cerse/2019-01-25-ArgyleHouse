@@ -24,4 +24,4 @@ We expect all attendees at this meeting to abide by the [Carpentries Code of Con
 
 Please see the link above for the full Code.
 
-If someone violates the Code of Conduct during the event we ask that you report it to one of the organisers (Geoff Lee, Sean McGeever, Giacomo Peru). All reports will be reviewed by the organisers and kept confidential.  
+If someone violates the Code of Conduct during the event we ask that you report it to one of the organisers (Iain Fiddes, Mario Antonioletti, Geoff Lee, Sean McGeever, Giacomo Peru). All reports will be reviewed by the organisers and kept confidential.  
