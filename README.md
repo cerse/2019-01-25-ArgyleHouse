@@ -1,5 +1,5 @@
 # 2019-01-25-ArgyleHouse
-Edinburgh RSE Meeting 13:00-15:00, in rooms 6 and 7 of Argyle House 3 Lady Lawson St, Edinburgh EH3 9DR.
+Edinburgh RSE Meeting, 13:00-15:00, in rooms 6 and 7 of Argyle House 3 Lady Lawson St, Edinburgh EH3 9DR.
 
 ## Purpose
 Our primary goal is to invite anyone in the Edinburgh area, active or interested in the area of research software, to bootstrap and participate in a local community of practice. Coffee and cake will be provided, with ample time for comunity-building discussion.
