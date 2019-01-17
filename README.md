@@ -18,7 +18,7 @@ Our primary goal is to invite anyone in the Edinburgh area, active or interested
 
 In order to get an idea of numbers for catering please [register here](https://www.eventbrite.com/e/edinburgh-rse-community-meeting-argyle-house-tickets-54975464093).
 
-If you would like to present a lightning talk please specify so on registration. You will only be able to present 1 slide (optional) and have 2 minutes max. You can present more than once but these presentations must be on different topics. Please send your slide or title to [Mario](mario@epcc.ed.ac.uk) (also let me know if your slide/topic can be made public after the event).
+If you would like to present a lightning talk please specify so on registration. You will only be able to present 1 slide (optional) and have 2 minutes max. You can present more than once but these presentations must be on different topics. Please send your slide or title to [Mario](mailto:mario@epcc.ed.ac.uk) (also let me know if your slide/topic can be made public after the event).
 
 ## Code of Conduct
 We expect all attendees at this meeting to abide by the [Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html). In summary, we encourage the following behaviour:
