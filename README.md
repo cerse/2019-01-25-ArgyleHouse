@@ -9,7 +9,7 @@ Our primary goal is to invite anyone in the Edinburgh area, active or interested
 |Time |       | 
 |------|------ |
 |13:00 | Welcome|
-|13:05 | A persective on Research Software Engineers from Edinburgh's IS |
+|13:05 | Making Developer communities effective for all, Iain Fiddes |
 |13:25 | Ice breaking session (get to know fellow attendees) |
 |13:45 | Lightning talks |
 |      | The way forward (starting time will vary depending on number of lightning talks) |
