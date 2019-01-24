@@ -12,7 +12,7 @@ Our primary goal is to invite anyone in the Edinburgh area, active or interested
 |13:05 | Making Developer communities effective for all, Iain Fiddes |
 |13:25 | Ice breaking session (get to know fellow attendees) |
 |13:45 | Lightning talks |
-|      | The way forward (starting time will vary depending on number of lightning talks) |
+|14:05 | Establishing a way forward |
 |14:35 | Coffee and cakes |
 |15:00 | Close |
 
