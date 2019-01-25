@@ -15,7 +15,7 @@ Our primary goal is to invite anyone in the Edinburgh area, active or interested
 |      | Eleni Kotoula, “New Digital Research Services Website” |
 |      | Mario Antonioletti, “[HPC Europa Programme](Talks/HPC-Europa.pdf)” |
 |      | Lucia Michielin, “Edinburgh Carpentries” |
-|      | Mario Antonioletti ,“Software Sustainability Institute’s Fellowship Programme” |
+|      | Mario Antonioletti ,“[Software Sustainability Institute’s Fellowship Programme](Talks/SSI-Fellows.pdf)” |
 |      | Evgenij Belakov, “Inspecting Memory Access Patterns with NumaMMA” |
 |      | Mario Antonioletti, “Call to Action: Establishing a Mentoring Scheme” |
 |      | Philip Breen, “Newton vs the machine” |
