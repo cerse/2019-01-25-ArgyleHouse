@@ -11,15 +11,15 @@ Our primary goal is to invite anyone in the Edinburgh area, active or interested
 |13:00 | Welcome|
 |13:05 | Making Developer communities effective for all, Iain Fiddes |
 |13:25 | Ice breaking session (get to know fellow attendees) |
-|13:45 | Lightning talks 
-* Eleni Kotoula, “New Digital Research Services Website”
-* Mario Antonioletti, “HPC Europa Programme”
-* Lucia Michielin, “Edinburgh Carpentries”
-* Mario Antonioletti ,“Software Sustainability Institute’s Fellowship Programme”
-* Evgenij Belakov, “Inspecting Memory Access Patterns with NumaMMA”
-* Mario Antonioletti, “Call to Action: Establishing a Mentoring Scheme”
-* Philip Breen, “Newton vs the machine”
-* Geoff Lee, “Scalable Compute Infrastructure” |
+|13:45 | Lightning talks |
+|      | * Eleni Kotoula, “New Digital Research Services Website” |
+|      | * Mario Antonioletti, “HPC Europa Programme” |
+|      | * Lucia Michielin, “Edinburgh Carpentries” |
+|      | * Mario Antonioletti ,“Software Sustainability Institute’s Fellowship Programme” |
+|      | * Evgenij Belakov, “Inspecting Memory Access Patterns with NumaMMA” |
+|      | * Mario Antonioletti, “Call to Action: Establishing a Mentoring Scheme” |
+|      | * Philip Breen, “Newton vs the machine” |
+|      | * Geoff Lee, “Scalable Compute Infrastructure” |
 |14:05 | Establishing a way forward |
 |14:35 | Coffee and cakes |
 |15:00 | Close |
