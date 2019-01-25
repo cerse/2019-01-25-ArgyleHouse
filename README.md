@@ -8,7 +8,7 @@ Our primary goal is to invite anyone in the Edinburgh area, active or interested
 
 |Time |       | 
 |------|------ |
-|13:00 | Welcome|
+|13:00 | Welcome, Sean McGeever |
 |13:05 | [Making Developer communities effective for all](Talks/Making_Software_Development_Communities_Work.pdf), Iain Fiddes |
 |13:25 | Ice breaking session (get to know fellow attendees) |
 |13:45 | Lightning talks |
