@@ -16,7 +16,7 @@ Our primary goal is to invite anyone in the Edinburgh area, active or interested
 |      | Mario Antonioletti, “[HPC Europa Programme](Talks/HPC-Europa.pdf)” |
 |      | Lucia Michielin, “[Edinburgh Carpentries](Talks/edcarp.pdf)” |
 |      | Mario Antonioletti ,“[Software Sustainability Institute’s Fellowship Programme](Talks/SSI-Fellows.pdf)” |
-|      | Evgenij Belakov, “Inspecting Memory Access Patterns with NumaMMA” |
+|      | Evgenij Belakov, “[Inspecting Memory Access Patterns with NumaMMA](Talks/NumaMMA.pdf)” |
 |      | Mario Antonioletti, “[Call to Action: Establishing a Mentoring Scheme](Talks/Mentoring.pdf)” |
 |      | Philip Breen, “Newton vs the machine” |
 |      | Geoff Lee, “[Scalable Compute Infrastructure](Talks/ScalableCloudRenderFarm.pdf)” |
