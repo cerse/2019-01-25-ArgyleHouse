@@ -13,7 +13,7 @@ Our primary goal is to invite anyone in the Edinburgh area, active or interested
 |13:25 | Ice breaking session (get to know fellow attendees) |
 |13:45 | Lightning talks |
 |      | Eleni Kotoula, “New Digital Research Services Website” |
-|      | Mario Antonioletti, “HPC Europa Programme” |
+|      | Mario Antonioletti, “[HPC Europa Programme](Talks/HPC-Europa.pdf)” |
 |      | Lucia Michielin, “Edinburgh Carpentries” |
 |      | Mario Antonioletti ,“Software Sustainability Institute’s Fellowship Programme” |
 |      | Evgenij Belakov, “Inspecting Memory Access Patterns with NumaMMA” |
