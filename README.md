@@ -20,8 +20,8 @@ Our primary goal is to invite anyone in the Edinburgh area, active or interested
 |      | Mario Antonioletti, “Call to Action: Establishing a Mentoring Scheme” |
 |      | Philip Breen, “Newton vs the machine” |
 |      | Geoff Lee, “Scalable Compute Infrastructure” |
-|14:05 | Establishing a way forward |
-|14:35 | Coffee and cakes |
+|14:05 | "Establishing a way forward", Mario Antonioletti |
+|14:35 | Coffee and biscuits |
 |15:00 | Close |
 
 In order to get an idea of numbers for catering please [register here](https://www.eventbrite.com/e/edinburgh-rse-community-meeting-argyle-house-tickets-54975464093).
