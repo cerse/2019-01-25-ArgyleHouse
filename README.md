@@ -20,7 +20,7 @@ Our primary goal is to invite anyone in the Edinburgh area, active or interested
 |      | Mario Antonioletti, “[Call to Action: Establishing a Mentoring Scheme](Talks/Mentoring.pdf)” |
 |      | Philip Breen, “Newton vs the machine” |
 |      | Geoff Lee, “[Scalable Compute Infrastructure](Talks/ScalableCloudRenderFarm.pdf)” |
-|14:05 | "Establishing a way forward", Mario Antonioletti |
+|14:05 | "[Establishing a way forward](Talks/WayForward.pdf)", Mario Antonioletti |
 |14:35 | Coffee and biscuits |
 |15:00 | Close |
 
