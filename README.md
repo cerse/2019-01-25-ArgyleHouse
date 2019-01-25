@@ -12,7 +12,7 @@ Our primary goal is to invite anyone in the Edinburgh area, active or interested
 |13:05 | Making Developer communities effective for all, Iain Fiddes |
 |13:25 | Ice breaking session (get to know fellow attendees) |
 |13:45 | Lightning talks |
-|      | Eleni Kotoula, “New Digital Research Services Website” |
+|      | Eleni Kotoula, “[New Digital Research Services Website](Talks/digital-research-services.pdf)” |
 |      | Mario Antonioletti, “[HPC Europa Programme](Talks/HPC-Europa.pdf)” |
 |      | Lucia Michielin, “Edinburgh Carpentries” |
 |      | Mario Antonioletti ,“[Software Sustainability Institute’s Fellowship Programme](Talks/SSI-Fellows.pdf)” |
