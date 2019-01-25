@@ -17,7 +17,7 @@ Our primary goal is to invite anyone in the Edinburgh area, active or interested
 |      | Lucia Michielin, “Edinburgh Carpentries” |
 |      | Mario Antonioletti ,“[Software Sustainability Institute’s Fellowship Programme](Talks/SSI-Fellows.pdf)” |
 |      | Evgenij Belakov, “Inspecting Memory Access Patterns with NumaMMA” |
-|      | Mario Antonioletti, “Call to Action: Establishing a Mentoring Scheme” |
+|      | Mario Antonioletti, “[Call to Action: Establishing a Mentoring Scheme](Talks/Mentoring.pdf)” |
 |      | Philip Breen, “Newton vs the machine” |
 |      | Geoff Lee, “Scalable Compute Infrastructure” |
 |14:05 | "Establishing a way forward", Mario Antonioletti |
